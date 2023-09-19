@@ -52,5 +52,5 @@ void main() {
   print(countLetters("Hello, kalybekov!")); // 10
   print(getType("56")); // Целое число
   print(isPrime(5)); // true
-  print(getSeason(8)); // Осень
+  print(getSeason(7)); // Осень
 }
